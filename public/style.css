@@ -2,6 +2,10 @@ code {
   background: #d0d0d5;
 }
 
+body {
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
 .container {
   display: flex;
   flex-direction: column;
